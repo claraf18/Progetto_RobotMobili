@@ -10,3 +10,5 @@ Una volta stabilita la connessione è sufficiente lanciare il file publisher.lau
  - path_publisher.py
  - orb_slam2_d435_mono.launch
  - rviz
+
+Infine, per muovere RoboMaster all'interno dell'ambiente, in modo che possa ricostruire la mappa e localizzarsi, è necessario pilotarlo tramite l'app dedicata "RoboMaster"
